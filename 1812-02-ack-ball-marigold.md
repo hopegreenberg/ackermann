@@ -1,4 +1,4 @@
-!{Alt](captioned/1812-02-ack-ball-marigold.jpg "Ackermann February 1812: Ball Dress")
+![Alt](captioned/1812-02-ack-ball-marigold.jpg "Ackermann February 1812: Ball Dress")
 
 ##PLATE  11.----A   BALL   DRESS.
 A round Grecian robe of white crape, gossamer net, or leno, em-
