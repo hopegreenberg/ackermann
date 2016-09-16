@@ -1,3 +1,10 @@
+---
+layout: prose
+title: February 1809, Half Dress
+source: Ackermann Repository of the Arts
+---
+<p class="citation"> in {{ page.source }}</p>
+
 ![Alt](captioned/1809-02-ack-half-dress-burgundy.jpg "Ackermann: February 1809, Half Dress")
 ##Half Dress
 An Egyptian head-dress of silver and pearls, one point falling on the
