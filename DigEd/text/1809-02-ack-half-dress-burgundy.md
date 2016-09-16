@@ -5,7 +5,7 @@ source: Ackermann Repository of the Arts
 ---
 <p class="citation"> in {{ page.source }}</p>
 
-![Alt](/./assets/1809-02-ack-half-dress-burgundy.jpg "Ackermann: February 1809, Half Dress")
+![Alt](./assets/1809-02-ack-half-dress-burgundy.jpg "Ackermann: February 1809, Half Dress")
 ##Half Dress
 An Egyptian head-dress of silver and pearls, one point falling on the
 left shoulder, finished with a tassel; the hair in loose ringlets; pearl ear-rings, bracelets, and necklace; a train dress of brocaded sarsenet,
